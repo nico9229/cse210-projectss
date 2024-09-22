@@ -43,7 +43,7 @@ class Program
         Console.WriteLine($"you have {numb.Count} numbers in your list");
         Console.WriteLine ($"the sum of the all number is: {sum}");
         Console.WriteLine ($"the average is {average}");
-        Console.WriteLine ($"the largestnumber is  {max}");
+        Console.WriteLine ($"the largest number is  {max}");
         }
     }   
 }
